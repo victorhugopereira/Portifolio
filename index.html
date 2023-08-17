@@ -107,7 +107,21 @@
                 <button class="MS-right"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
             </div>
         </div>
-        <div id="contato"></div>
+        <div id="contato">
+             <h1>Formulário de Contato</h1>
+    <form action="mailto:victorhugofrontend@gmail.com" method="post" enctype="text/plain">
+        <label for="nome">Nome:</label><br>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+        <label for="email">E-mail:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="mensagem">Mensagem:</label><br>
+        <textarea id="mensagem" name="mensagem" rows="4" required></textarea><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+        </div>
     </section>
     <footer></footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
