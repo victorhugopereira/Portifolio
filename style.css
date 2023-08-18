@@ -373,7 +373,10 @@ p {
 }
 /*formulario*/
 
-#contato {
+#contato {  
+            text-aling:center;
+            align-items: center;
+            justify-content: center;
             width: 400px;
             padding: 20px;
             border: 1px solid #ccc;
