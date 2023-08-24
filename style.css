@@ -95,7 +95,7 @@ a:hover {
     padding-left: 25px;
     padding-right: 25px;
   }
-  .slide .MS-content .item .img {
+  .slide .MS-content .item {
     width: 50%;
 }
 
@@ -356,6 +356,10 @@ p {
     display: flex;
     margin-left: 200px;
   }
+  #linguagem{
+    width:50%;
+    
+  }
   
 }
 
@@ -371,7 +375,16 @@ p {
   #linguagem{
     align-items: center;
     margin-left: 40px;
+    background: rgb(255, 255, 255);
+    border-radius: 9px;
+    text-align: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
   }
+  
 
   #home {
     margin-bottom: 0px;
