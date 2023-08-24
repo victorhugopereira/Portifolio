@@ -95,6 +95,8 @@ a:hover {
     padding-left: 25px;
     padding-right: 25px;
   }
+  .slide .MS-content .item .img {
+    width: 50%;
 }
 
 .slide .MS-content {
