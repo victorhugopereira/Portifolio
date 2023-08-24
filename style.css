@@ -90,6 +90,13 @@ a:hover {
   }
 }
 
+@media (max-width: 400px){
+  p{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
+
 .slide .MS-content {
   margin: 0px 5%;
   padding-top: 15px;
