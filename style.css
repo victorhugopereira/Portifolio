@@ -357,9 +357,7 @@ p {
 @media (max-device-width: 400px){
   .slide .MS-content .item{
     padding-right:60px;
-  }
-   #linguagem img{
-    height:150px;
+    width:30%
   }
 }
 
