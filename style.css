@@ -355,11 +355,21 @@ p {
 }
 
 @media (max-device-width: 400px){
-  .slide .MS-content{
+  .slide .MS-content .item{
     padding-right:60px;
   }
-  .slide .MS-content .item{
-  width:85px;
+  #linguagem{
+    align-items: center;
+    margin-left: 40px;
+    background: rgb(255, 255, 255);
+    border-radius: 9px;
+    text-align: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    width:85px;
   }
 }
 
