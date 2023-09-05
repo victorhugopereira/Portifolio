@@ -347,6 +347,10 @@ p {
     display: flex;
     margin-left: 200px;
   }
+
+  .MS-content{
+      padding-right: 60px;
+  }
   
 }
 
