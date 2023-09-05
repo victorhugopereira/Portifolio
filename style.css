@@ -348,10 +348,16 @@ p {
     margin-left: 200px;
   }
 
-  .MS-content{
+  .slide .MS-content{
       padding-right: 60px;
   }
   
+}
+
+@media (max-device-width: 400px){
+  .slide .MS-content{
+    padding-right:60px;
+  }
 }
 
 @media only screen and (max-device-width: 910px), only screen and (max-width: 910px) {
