@@ -359,8 +359,7 @@ p {
     padding-right:60px;
   }
    #linguagem{
-    align-items: center;
-    margin-left: 40px;
+    margin-left: 0px;
     background: rgb(255, 255, 255);
     border-radius: 9px;
     text-align: center;
@@ -370,6 +369,7 @@ p {
     margin-left: 20px;
     margin-top: 10px;
     padding-right: 45px;
+    
   }
 }
 
