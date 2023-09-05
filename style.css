@@ -358,17 +358,8 @@ p {
   .slide .MS-content .item{
     padding-right:60px;
   }
-  #linguagem{
-    align-items: center;
-    margin-left: 40px;
-    background: rgb(255, 255, 255);
-    border-radius: 9px;
-    text-align: center;
-    align-items: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left: 20px;
-    margin-top: 10px;
+  #linguagem.img{
+    
     width:85px;
   }
 }
