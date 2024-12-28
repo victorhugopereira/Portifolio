@@ -4,6 +4,8 @@ ul {
   padding: 0px;
 }
 
+#texto:hover{background:none;}
+
 .col {
   background: white;
   border-radius: 9px;
