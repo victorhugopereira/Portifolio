@@ -96,8 +96,8 @@ a {
 }
 
 
-@media only screen (min-width: 700px) and (max-width:1000px;){
-  .diploma{
+@media (min-width: 700px) and (max-width:1000px;){
+  div.diploma{
    display:flex;
     justify-content: center;
    }
