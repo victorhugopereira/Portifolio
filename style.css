@@ -9,8 +9,15 @@ ul {
 
 /*galeria*/
 
+.diploma{
+	display:flex;
+    justify-content: center;
+}
 div.gallery {
+  margin: 5px;
   border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
@@ -25,39 +32,6 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 100%;
-    margin: 6px 0;
-  }
-
-#Zion{
-  height: 173px;
-}
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 /*fim da galeria*/
