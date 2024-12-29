@@ -22,7 +22,6 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
   text-align: center;
 }
 
@@ -34,6 +33,7 @@ div.desc {
   
   height:300px; 
   width:300px;
+  margin-left: 30px;
 }
 
 @media only screen and (max-width: 700px) {
