@@ -36,6 +36,10 @@ div.desc {
   float: left;
   width: 24.99999%;
 }
+ @media only screen and (min-width:700px){
+   display:flex;
+    justify-content: center;
+ }
 
 @media only screen and (max-width: 700px) {
   .responsive {
