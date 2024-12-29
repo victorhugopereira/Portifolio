@@ -49,6 +49,10 @@ div.desc {
     width: 49.99999%;
     margin: 6px 0;
   }
+#diploma{
+   display:flex;
+    justify-content: center;
+   }
   
 #Zion{
   height: 173px;
