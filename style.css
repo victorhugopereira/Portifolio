@@ -33,7 +33,7 @@ div.desc {
 
 .responsive {
   padding: 0 6px;
-  display:flex;
+  float:flex;
   width: 24.99999%;
 }
 
