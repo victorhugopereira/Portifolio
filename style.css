@@ -42,11 +42,7 @@ div.desc {
     width: 49.99999%;
     margin: 6px 0;
   }
-#diploma{
-   display:flex;
-    justify-content: center;
-   }
-  
+
 #Zion{
   height: 173px;
 }
@@ -97,6 +93,14 @@ a {
   color: black;
   text-decoration: none;
   font-family: sans-serif;
+}
+
+
+@media (min-width: 700px) and (max-width:3000px;){
+  #diploma{
+   display:flex;
+    justify-content: center;
+   }
 }
 
 a:hover {
