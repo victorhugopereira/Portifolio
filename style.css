@@ -4,9 +4,6 @@ ul {
   padding: 0px;
 }
 
-#Zion{
-  height: 173px;
-}
 
 #texto:hover{background:none;}
 
@@ -45,6 +42,10 @@ div.desc {
     width: 49.99999%;
     margin: 6px 0;
   }
+  
+#Zion{
+  height: 173px;
+}
 }
 
 @media only screen and (max-width: 500px) {
