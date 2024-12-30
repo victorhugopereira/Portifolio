@@ -7,6 +7,7 @@ ul {
     width: 25%;
     text-align: center;
     font-size: 8pt;
+    border: 1px solid #ccc;
 }
 
 @media (min-width: 768px) {
