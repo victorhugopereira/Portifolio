@@ -22,7 +22,7 @@ div.gallery:hover {
 
 
 div.gallery img {
-  width: 400px;
+  width: 90%;
   height: auto;
   padding: 20px;
 }
