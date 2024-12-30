@@ -5,7 +5,9 @@ ul {
 }
 .col-xs-3 {
    width: 25%;
-  border: 1px solid #ccc
+}
+#bordas{
+  border: 1px solid #ccc;
 }
 
 @media (min-width: 768px) {
