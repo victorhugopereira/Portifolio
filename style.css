@@ -4,6 +4,18 @@ ul {
   padding: 0px;
 }
 
+#diplma{
+  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.row{
+  display: contents;
+}
+
 .diploma{
   display:flex;
   justify-content:center;
