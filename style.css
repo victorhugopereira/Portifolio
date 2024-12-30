@@ -6,7 +6,6 @@ ul {
 .col-xs-3 {
     width: 25%;
     text-align: center;
-    font-size: 8pt;
     border: 1px solid #ccc;
 }
 
@@ -36,11 +35,8 @@ ul {
 #texto:hover{background:none;}
 
 /*galeria*/
-div.gallery {
-  border: 1px solid #ccc;
-}
 
-div.gallery:hover {
+#bordas:hover {
   border: 1px solid #777;
 }
 
