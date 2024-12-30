@@ -29,12 +29,11 @@ div.desc {
   box-sizing: border-box;
 }
 
-@media only screen and (max-width: 500px){
+@media only screen and(min-width: 350px) and (max-width: 500px){
 
   .gallery {
     width: 100px;
     height: auto;
-  }
   
 }
 
@@ -45,6 +44,7 @@ div.desc {
         /* padding-bottom: 0%; */
         margin-left: 10px;
     }
+  }
 
 .gallery{
   height: 102px;
