@@ -20,12 +20,11 @@ div.gallery:hover {
   border: 1px solid #777;
 }
 
-
-div.gallery img {
-  width: 90%;
-  height: auto;
-  padding: 20px;
-}
+.IMG{
+    width:400px;
+    height: 100px;
+    padding-left:25px;"
+  }
 
 div.desc {
   text-align: center;
@@ -41,11 +40,12 @@ div.desc {
   width:300px;
   margin-left: 30px;
   }
-  .IMG{
-    width:200px;
-    height: 100px;
-    padding-left:25px;"
-  }
+  div.gallery img {
+  width: 90%;
+  height: auto;
+  padding: 20px;
+}
+
 
 #Zion{
   height: 173px;
