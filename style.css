@@ -22,8 +22,8 @@ div.gallery:hover {
 }
 
 .IMG{
-    width:400px;
-    height: 100px;
+    width: 100%;
+    height: auto;
     padding-left:25px;"
   }
 
