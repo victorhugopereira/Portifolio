@@ -3,8 +3,14 @@ ul {
   margin: 0px;
   padding: 0px;
 }
-.col-xs-3 {
-   width: 25%;
+.col-xs-3 {   
+  width: 25%;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #ccc;
+}
 }
 #bordas{
   border: 1px solid #ccc;
