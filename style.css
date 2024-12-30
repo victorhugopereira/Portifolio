@@ -11,10 +11,6 @@ div.gallery {
   border: 1px solid #ccc;
 }
 
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
 
 div.gallery:hover {
   border: 1px solid #777;
