@@ -30,7 +30,7 @@ div.desc {
         /* padding-bottom: 0%; */
         margin-left: 10px;
     }
-  }
+  
 
 .gallery{
   height: 102px;
@@ -45,7 +45,7 @@ div.desc {
 
 #Zion{
   height: 173px;
-}
+ }
 }
 
 @media only screen and (max-width: 600px) {
