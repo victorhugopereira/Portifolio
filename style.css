@@ -5,12 +5,13 @@ ul {
 }
 .col-xs-3 {
    width: 25%;
+  border: 1px solid #ccc
 }
 
 @media (min-width: 768px) {
     .col-xs-3 {
         width: 25%;
-    margin-left: 15px;
+    margin-left: 20px;
     font-size: 8pt;
     /* display: flex
 ; */
@@ -48,7 +49,6 @@ ul {
 .IMG{
     width: 100%;
     height: auto;
-    padding-left:25px;"
   }
 
 div.desc {
