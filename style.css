@@ -18,7 +18,7 @@ div.gallery:hover {
 
 
 div.gallery img {
-  width: 300px;
+  width: 100%;
   height: auto;
   padding: 20px;
 }
