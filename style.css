@@ -4,6 +4,11 @@ ul {
   padding: 0px;
 }
 
+@media (min-width: 768px) {
+    .col-sm-3 {
+        width: 25%;
+    }
+
 #diplma{
   
     display: flex;
