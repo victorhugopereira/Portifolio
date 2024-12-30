@@ -3,6 +3,11 @@ ul {
   margin: 0px;
   padding: 0px;
 }
+.col-xs-3 {
+    width: 25%;
+    text-align: center;
+    font-size: 8pt;
+}
 
 @media (min-width: 768px) {
     .col-sm-3 {
