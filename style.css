@@ -28,19 +28,16 @@ div.desc {
   .responsive {
         height: 230px;
         width: 200px;
-        /* padding-bottom: 0%; */
         margin-left: 10px;
     }
-  
-
-.gallery{
-  height: 102px;
-}
+  .gallery{
+    height: 110px;
+  }
 
 
   .IMG{
-    width:250px;
-    height: 150px;
+    width:170px;
+    height: 60px;
     padding-left:25px;"
   }
 
