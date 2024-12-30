@@ -1,5 +1,5 @@
-body,
-ul {
+/* Reset básico */
+body, ul {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,6 +12,7 @@ ul {
 /* Galeria */
 div.gallery {
   border: 1px solid #ccc;
+  transition: border 0.3s ease; /* Transição suave */
 }
 
 div.gallery:hover {
@@ -26,33 +27,35 @@ div.gallery img {
 
 div.desc {
   text-align: center;
+  padding: 5px;
+  font-size: 0.9rem;
 }
 
-/* Estilo para dispositivos menores */
+/* Estilo responsivo para dispositivos menores */
 @media only screen and (max-width: 700px) {
   .responsive {
-    width: 90%; /* Largura relativa ao contêiner pai */
+    width: 90%;
     margin: 10px auto;
   }
 
   div.gallery {
-    height: auto; /* Altura automática para se ajustar ao conteúdo */
+    height: auto;
   }
 
   .IMG {
-    width: 100%; /* Largura total do contêiner */
+    width: 100%;
     height: auto;
-    padding: 0; /* Remoção de padding */
+    padding: 0;
   }
 
   #Zion {
-    height: auto; /* Ajuste automático de altura */
+    height: auto;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .responsive {
-    width: 100%; /* Largura total do contêiner */
+    width: 100%;
     margin: 15px auto;
   }
 
@@ -63,7 +66,7 @@ div.desc {
   }
 }
 
-/* Estilo do cabeçalho */
+/* Cabeçalho */
 #header {
   position: fixed;
   width: 100%;
@@ -78,7 +81,6 @@ div.desc {
 
 #logo {
   color: white;
-  text-align: center;
   font-size: 1.5rem;
 }
 
@@ -134,6 +136,7 @@ div.desc {
   margin: 5% auto;
   padding: 2rem;
   background: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
 }
 
 p {
