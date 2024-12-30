@@ -5,10 +5,6 @@ ul {
 }
 .col-xs-3 {
    width: 25%;
-    margin-left: 15px;
-    text-align: -webkit-center;
-    align-items: center;
-    align-content: center;
 }
 
 @media (min-width: 768px) {
