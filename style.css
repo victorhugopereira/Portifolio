@@ -12,9 +12,16 @@ ul {
 }
 
 @media (min-width: 768px) {
-    .col-sm-3 {
+    .col-xs-3 {
         width: 25%;
-    }
+    margin-left: 15px;
+    font-size: 8pt;
+    /* display: flex
+; */
+    /* justify-content: center; */
+    text-align: -webkit-center;
+    align-items: center;
+    align-content: center;}
 
 #diplma{
   
