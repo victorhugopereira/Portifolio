@@ -25,8 +25,8 @@ div.desc {
   box-sizing: border-box;
 }
 
-@media only screen and (min-width: 700px) {
-  div.gallery img{
+@media only screen and (max-width: 3000px){
+div.gallery img{
     height:150px; 
     width:300px;
   }
