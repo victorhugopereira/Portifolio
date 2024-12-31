@@ -3,6 +3,30 @@ ul {
   margin: 0px;
   padding: 0px;
 }
+ 
+.col-xs-3 {   
+  width: 25%;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+#bordas{
+  border: 1px solid #ccc;
+}
+@media (min-width: 768px) {
+    .col-xs-3 {
+        width: 25%;
+    margin-left: 20px;
+    font-size: 8pt;
+    /* display: flex
+; */
+    /* justify-content: center; */
+    text-align: -webkit-center;
+    align-items: center;
+    align-content: center;
+    }
 
 #diplma{
   
@@ -25,9 +49,6 @@ ul {
 #texto:hover{background:none;}
 
 /*galeria*/
-div.gallery {
-  border: 1px solid #ccc;
-}
 
 div.gallery:hover {
   border: 1px solid #777;
