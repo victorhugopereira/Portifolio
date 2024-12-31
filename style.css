@@ -7,6 +7,8 @@ ul {
     width: 25%;
     text-align: center;
     font-size: 8pt;
+  
+    align-content: center;
     border: 1px solid #ccc;
 }
 
