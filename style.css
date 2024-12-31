@@ -41,7 +41,7 @@ ul {
 /*galeria*/
 
 
-#bordas:hover {
+.col-xs-3:hover {
   border: 1px solid #777;
 }
 
