@@ -5,15 +5,16 @@ ul {
 }
 .col-xs-3 {
    width: 25%;
-}
-#bordas{
-  border: 1px solid #ccc;
+    margin-left: 15px;
+    text-align: -webkit-center;
+    align-items: center;
+    align-content: center;
 }
 
 @media (min-width: 768px) {
     .col-xs-3 {
         width: 25%;
-    margin-left: 20px;
+    margin-left: 15px;
     font-size: 8pt;
     /* display: flex
 ; */
@@ -51,6 +52,7 @@ ul {
 .IMG{
     width: 100%;
     height: auto;
+    padding-left:25px;"
   }
 
 div.desc {
